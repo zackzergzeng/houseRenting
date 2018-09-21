@@ -1,0 +1,31 @@
+@charset "UTF-8";
+.carousel-inner .item img{
+	height: 300px;
+	margin:0px;
+}
+/*轮播左右按键背景色无色*/
+.left{
+	background-color:transparent;
+}
+.right{
+	background-color: transparent;
+}
+.slide{
+	width: 95%;
+	margin: 25px;
+}
+.row{
+	margin: 0;
+}
+.lunbo{
+	width:440px;
+	margin:0px;
+	padding:0px;
+}
+#myCarousel{
+	margin:0px;
+	margin-top:60px;
+}
+.list-nav .width1190 ul li a{
+	padding:0px;
+}
